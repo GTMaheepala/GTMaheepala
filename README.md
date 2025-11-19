@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/yourImageID.png" alt="Header Image" width="400">
+  <img src="https://via.placeholder.com/800x200.png?text=Header+Image" alt="Header Image" width="400">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tharusha Thathsara</h1>
