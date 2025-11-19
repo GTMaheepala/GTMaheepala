@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Header+Image" alt="Header Image" width="400">
+  <img src="./assets/header.svg" alt="Header Image" width="854">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tharusha Thathsara</h1>
