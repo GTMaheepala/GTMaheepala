@@ -2,9 +2,6 @@
   <img src="./assets/header.svg" alt="Header Image" width="854">
 </p>
 
-<h1 align="center">Hi 👋, I'm Tharusha Thathsara</h1>
-
-
 <img src="https://profile-counter.glitch.me/GTMaheepala/count.svg" margin-left:200px>
 
 [![GitHub followers](https://img.shields.io/github/followers/GTMapeelapa.svg?style=social&label=Followers)](https://github.com/GTMaheepala?tab=followers)
