@@ -65,7 +65,7 @@
 > **Be Drop Dead.**
 
   <p align="center">
-  <img src="https://github.com/GTMaheepala/GTMaheepala/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/GTMaheepala/GTMaheepala/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ---
