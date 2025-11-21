@@ -65,10 +65,10 @@
 > **Be Drop Dead.**
 
   <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/GTMaheepala/GTMaheepala/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ---
 
-Credit:[Tharusha Thathsara](https://github.com/GTMaheepala)
-Last Edited on: 11/19/2025
+Credit: [Tharusha Thathsara](https://github.com/GTMaheepala)
+Last Edited on: 11/21/2025
